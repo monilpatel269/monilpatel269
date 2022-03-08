@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Monil.
-- 👀 I’m interested in android.
-- 🌱 I’m currently learning more about android development.
+- 👀 I’m interested in python.
+- 🌱 I’m currently learning more about data science and machine learning.
 - 💞️ I’m looking to collaborate on Github.
 - 😄 Pronounce:He/His.
 
