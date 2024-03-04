@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Monil </h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/monilpatel269/monilpatel269/blob/main/resources/img/waving.gif">, I'm Monil </h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=22EBF7&size=25&center=true&lines=Full+Stack+Developer🚀;Data+Science+enthusiast💻..."/>
 </div>
 
 <div align="center">
   <a href="https://github.com/monilpatel269">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/monilpatel269/monilpatel269/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
